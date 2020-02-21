@@ -16,7 +16,9 @@
     "bin": [
         "bin\\coqtop.exe",
         "bin\\coqc.exe",
-        "bin\\coqchk.exe"
+        "bin\\coqchk.exe",
+        "bin\\coq_makefile.exe",
+        "bin\\coqidetop.exe"
     ],
     "env_set": {
         "COQBIN": "bin"
